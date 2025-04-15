@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ling - Neobeast",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest?cb=20250320125043",
+    "map": {
+      "rul": "",
+      "pos": ""
+    }
+  },
+  {
+    "name": "Brody - Neobeast",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest?cb=20250320125011",
+    "map": {
+      "rul": "",
+      "pos": ""
+    }
+  },
+  {
+    "name": "Pharsa - Neobeast",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
+    "map": {
+      "rul": "",
+      "pos": ""
+    }
+  },
+  {
+    "name": "Leomord - Nightmare Count",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest?cb=20250307123904",
+    "map": {
+      "rul": "",
+      "pos": ""
+    }
+  },
+  {
+    "name": "Belerick - Arbiter of Stars",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero706-portrait.png/revision/latest?cb=20250307123907",
+    "map": {
+      "rul": "",
+      "pos": ""
+    }
+  },
+  {
+    "name": "Alpha - Revenant of Roses",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest?cb=20250307123855",
+    "map": {
+      "rul": "",
+      "pos": ""
+    }
+  }
+]
