@@ -1,50 +1,44 @@
 [
   {
-    "name": "Ling - Neobeast",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero108410-portrait.png/revision/latest?cb=20250320125043",
-    "map": {
-      "rul": "",
-      "pos": ""
-    }
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/suyou%20x%20sasuke.png",
+    "pos": 16,
+    "name": "Sasuke Uchiha",
+    "rul": "ass"
   },
   {
-    "name": "Brody - Neobeast",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero1008-portrait.png/revision/latest?cb=20250320125011",
-    "map": {
-      "rul": "",
-      "pos": ""
-    }
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/hayabusa%20x%20kakashe.jpg",
+    "pos": 8,
+    "name": "Kakashi Hatake",
+    "rul": "ass"
   },
   {
-    "name": "Pharsa - Neobeast",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest?cb=20250320125030",
-    "map": {
-      "rul": "",
-      "pos": ""
-    }
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/kalea%20x%20sakura.png",
+    "pos": 32,
+    "name": "Sakura Haruno",
+    "rul": "fi"
   },
   {
-    "name": "Leomord - Nightmare Count",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest?cb=20250307123904",
-    "map": {
-      "rul": "",
-      "pos": ""
-    }
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/lukas%20x%20naruto.png",
+    "pos": 33,
+    "name": "Naruto Uzumaki",
+    "rul": "fi"
   },
   {
-    "name": "Belerick - Arbiter of Stars",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Hero706-portrait.png/revision/latest?cb=20250307123907",
-    "map": {
-      "rul": "",
-      "pos": ""
-    }
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/vale%20x%20garaa.png",
+    "pos": 5,
+    "name": "Gaara",
+    "rul": "ma"
   },
   {
-    "name": "Alpha - Revenant of Roses",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero289-portrait.png/revision/latest?cb=20250307123855",
-    "map": {
-      "rul": "",
-      "pos": ""
-    }
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/miya%20star.png",
+    "pos": 6,
+    "name": "Nightowl Huntress",
+    "rul": "mm"
+  },
+  {
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/novaria%20collector.png",
+    "pos": 24,
+    "name": "Dragonsworn",
+    "rul": "ma"
   }
 ]
