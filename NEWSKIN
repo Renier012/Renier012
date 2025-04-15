@@ -3,42 +3,42 @@
     "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/suyou%20x%20sasuke.png",
     "pos": 16,
     "name": "Sasuke Uchiha",
-    "rul": "ass"
+    "rul": "ASSASIN"
   },
   {
     "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/hayabusa%20x%20kakashe.jpg",
     "pos": 8,
     "name": "Kakashi Hatake",
-    "rul": "ass"
+    "rul": "ASSASIN"
   },
   {
     "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/kalea%20x%20sakura.png",
     "pos": 32,
     "name": "Sakura Haruno",
-    "rul": "fi"
+    "rul": "FIHGTER"
   },
   {
     "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/lukas%20x%20naruto.png",
     "pos": 33,
     "name": "Naruto Uzumaki",
-    "rul": "fi"
+    "rul": "FIHGTER"
   },
   {
     "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/vale%20x%20garaa.png",
     "pos": 5,
     "name": "Gaara",
-    "rul": "ma"
+    "rul": "MAGE"
   },
   {
     "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/miya%20star.png",
     "pos": 6,
     "name": "Nightowl Huntress",
-    "rul": "mm"
+    "rul": "MARKSMAN"
   },
   {
     "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/novaria%20collector.png",
     "pos": 24,
     "name": "Dragonsworn",
-    "rul": "ma"
+    "rul": "MAGE"
   }
 ]
