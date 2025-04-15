@@ -1,44 +1,51 @@
 [
   {
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/suyou%20x%20sasuke.png",
-    "pos": 16,
+    "hero": "Suyou",
     "name": "Sasuke Uchiha",
-    "rul": "ASSASIN"
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/suyou%20x%20sasuke.png",
+    "rul": "ASSASIN",
+    "pos": 16
   },
   {
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/hayabusa%20x%20kakashe.jpg",
-    "pos": 8,
+    "hero": "Hayabusa",
     "name": "Kakashi Hatake",
-    "rul": "ASSASIN"
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/hayabusa%20x%20kakashe.jpg",
+    "rul": "ASSASIN",
+    "pos": 8
   },
   {
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/kalea%20x%20sakura.png",
-    "pos": 32,
+    "hero": "Kalea",
     "name": "Sakura Haruno",
-    "rul": "FIHGTER"
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/kalea%20x%20sakura.png",
+    "rul": "FIHGTER",
+    "pos": 32
   },
   {
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/lukas%20x%20naruto.png",
-    "pos": 33,
+    "hero": "Lukas",
     "name": "Naruto Uzumaki",
-    "rul": "FIHGTER"
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/lukas%20x%20naruto.png",
+    "rul": "FIHGTER",
+    "pos": 33
   },
   {
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/vale%20x%20garaa.png",
-    "pos": 5,
+    "hero": "Vale",
     "name": "Gaara",
-    "rul": "MAGE"
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/vale%20x%20garaa.png",
+    "rul": "MAGE",
+    "pos": 5
   },
   {
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/miya%20star.png",
-    "pos": 6,
+    "hero": "Miya",
     "name": "Nightowl Huntress",
-    "rul": "MARKSMAN"
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/miya%20star.png",
+    "rul": "MARKSMAN",
+    "pos": 6
   },
   {
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/novaria%20collector.png",
-    "pos": 24,
+    "hero": "Novaria",
     "name": "Dragonsworn",
-    "rul": "MAGE"
+    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/novaria%20collector.png",
+    "rul": "MAGE",
+    "pos": 24
   }
 ]
