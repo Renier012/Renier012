@@ -1,0 +1,242 @@
+ [
+    {
+      "question": "What does a broken white line on the road mean?",
+      "answer": "You may overtake or change lanes if safe."
+    },
+    {
+      "question": "What should you do when a pedestrian is crossing on the pedestrian lane?",
+      "answer": "Stop and give way to the pedestrian."
+    },
+    {
+      "question": "What should you do when the traffic light turns yellow?",
+      "answer": "Prepare to stop."
+    },
+    {
+      "question": "What does a blue road sign indicate?",
+      "answer": "It gives information."
+    },
+    {
+      "question": "Who has the right of way at an intersection if two vehicles arrive at the same time?",
+      "answer": "The vehicle on the right."
+    },
+    {
+      "question": "What documents should you always carry when driving?",
+      "answer": "Driver’s license and vehicle registration."
+    },
+    {
+      "question": "What is the effect of drinking alcohol before driving?",
+      "answer": "It reduces concentration and reflexes, which can cause accidents."
+    },
+    {
+      "question": "When is overtaking on the right allowed?",
+      "answer": "When the vehicle in front is turning left."
+    },
+    {
+      "question": "What should you do when an emergency vehicle is approaching?",
+      "answer": "Pull over or stop to give way."
+    },
+    {
+      "question": "What is the speed limit in residential or crowded areas?",
+      "answer": "20 kph."
+    },
+    {
+      "question": "What is the safe distance between your vehicle and the one in front?",
+      "answer": "One vehicle length or 1 meter per 10 kph of speed."
+    },
+    {
+      "question": "What does a red traffic light mean?",
+      "answer": "Stop."
+    },
+    {
+      "question": "When is overtaking not allowed?",
+      "answer": "When there is a solid yellow line in the middle of the road."
+    },
+    {
+      "question": "What is the license given to new drivers called?",
+      "answer": "Student Permit."
+    },
+    {
+      "question": "What document proves legal registration of a vehicle?",
+      "answer": "Certificate of Registration (CR)."
+    },
+    {
+      "question": "What is the main cause of road accidents?",
+      "answer": "Driver error."
+    },
+    {
+      "question": "Where should you not stop your vehicle?",
+      "answer": "In front of fire hydrants or on pedestrian lanes."
+    },
+    {
+      "question": "What does a yellow box at an intersection mean?",
+      "answer": "Do not stop inside the yellow box."
+    },
+    {
+      "question": "What does a 'No U-Turn' sign mean?",
+      "answer": "U-turns are not allowed."
+    },
+    {
+      "question": "What is the maximum speed limit on expressways?",
+      "answer": "100 kph."
+    },
+    {
+      "question": "When should you use your signal light?",
+      "answer": "Before turning or changing lanes."
+    },
+    {
+      "question": "Who should you call in case of an accident?",
+      "answer": "Police or LTO."
+    },
+    {
+      "question": "What color are warning signs?",
+      "answer": "Yellow."
+    },
+    {
+      "question": "What does a blinking red light mean?",
+      "answer": "Stop and proceed when safe."
+    },
+    {
+      "question": "What is the correct action at a railroad crossing?",
+      "answer": "Stop, look both ways, and listen."
+    },
+    {
+      "question": "What does oversteering mean?",
+      "answer": "Turning the steering wheel too much."
+    },
+    {
+      "question": "When should hazard lights be used?",
+      "answer": "During emergencies or when parked on the roadside."
+    },
+    {
+      "question": "What should you do if your car breaks down on the road?",
+      "answer": "Use an early warning device."
+    },
+    {
+      "question": "What symbol is found on hospital road signs?",
+      "answer": "Red or white cross."
+    },
+    {
+      "question": "How can you maintain safe driving?",
+      "answer": "Follow traffic rules and stay focused."
+    },
+    {
+      "question": "What does a double solid yellow line mean?",
+      "answer": "Overtaking is prohibited in both directions."
+    },
+    {
+      "question": "What is the function of a clutch in a manual car?",
+      "answer": "To change gears."
+    },
+    {
+      "question": "What does a road sign with 'P' and a slash mean?",
+      "answer": "No parking."
+    },
+    {
+      "question": "What is the purpose of seatbelts?",
+      "answer": "For the safety of the driver and passengers."
+    },
+    {
+      "question": "Where should passengers get off the vehicle?",
+      "answer": "At proper loading/unloading zones."
+    },
+    {
+      "question": "What should you do if your brakes fail?",
+      "answer": "Use the handbrake and downshift the gear."
+    },
+    {
+      "question": "What does a green arrow traffic light mean?",
+      "answer": "You may turn in the direction of the arrow."
+    },
+    {
+      "question": "What is a blind spot?",
+      "answer": "An area not visible in the side mirrors."
+    },
+    {
+      "question": "What is the purpose of side mirrors?",
+      "answer": "To see vehicles beside or behind you."
+    },
+    {
+      "question": "What should you check before driving?",
+      "answer": "Vehicle condition and documents."
+    },
+    {
+      "question": "When should you use your horn?",
+      "answer": "When warning other drivers or pedestrians."
+    },
+    {
+      "question": "What does a solid white line on the roadside mean?",
+      "answer": "It marks the edge of the road."
+    },
+    {
+      "question": "What is the proper way to turn left?",
+      "answer": "Move to the center of the road and signal."
+    },
+    {
+      "question": "What is the proper use of the rearview mirror?",
+      "answer": "To see traffic behind you."
+    },
+    {
+      "question": "What is the first thing to do in an accident?",
+      "answer": "Check if anyone is injured."
+    },
+    {
+      "question": "What is 'Defensive Driving'?",
+      "answer": "Driving to avoid accidents."
+    },
+    {
+      "question": "Who has the right to use the road?",
+      "answer": "Everyone who follows the law."
+    },
+    {
+      "question": "What does a red reflectorized triangle mean?",
+      "answer": "Warning of a stalled vehicle."
+    },
+    {
+      "question": "What is the speed limit on secondary roads?",
+      "answer": "40 kph."
+    },
+    {
+      "question": "What is the speed limit on open country roads?",
+      "answer": "80 kph."
+    },
+    {
+      "question": "What does a 'No Entry' sign mean?",
+      "answer": "Vehicles are not allowed to enter."
+    },
+    {
+      "question": "What license is not valid for driving public vehicles?",
+      "answer": "Non-Professional License."
+    },
+    {
+      "question": "What does a blinking yellow light mean?",
+      "answer": "Proceed with caution."
+    },
+    {
+      "question": "How can you avoid skidding on wet or slippery roads?",
+      "answer": "Slow down and avoid sudden braking."
+    },
+    {
+      "question": "What should you do when animals are crossing the road?",
+      "answer": "Slow down and stop if needed."
+    },
+    {
+      "question": "When should you not overtake?",
+      "answer": "On curves and intersections."
+    },
+    {
+      "question": "What does a warning sign with an exclamation point mean?",
+      "answer": "Danger or hazard on the road."
+    },
+    {
+      "question": "What gear should be used when going downhill?",
+      "answer": "Low gear."
+    },
+    {
+      "question": "What should you do when it's raining and roads are slippery?",
+      "answer": "Slow down and keep a safe distance."
+    },
+    {
+      "question": "What should you do in a minor collision?",
+      "answer": "Take photos and report to authorities."
+    }
+  ]
