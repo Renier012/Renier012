@@ -1,38 +1,38 @@
 [
   {
-    "hero": "Suyou",
-    "name": "Sasuke Uchiha",
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/suyou%20x%20sasuke.png",
-    "rul": "ASSASIN",
-    "pos": 16
+    "hero": "Natan",
+    "name": "Archon of Knowledge",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1077-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071908",
+    "rul": "MARKSMAN",
+    "pos": 18
   },
   {
-    "hero": "Hayabusa",
-    "name": "Kakashi Hatake",
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/hayabusa%20x%20kakashe.jpg",
-    "rul": "ASSASIN",
-    "pos": 8
-  },
-  {
-    "hero": "Kalea",
-    "name": "Sakura Haruno",
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/kalea%20x%20sakura.png",
-    "rul": "FIHGTER",
-    "pos": 32
-  },
-  {
-    "hero": "Lukas",
-    "name": "Naruto Uzumaki",
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/lukas%20x%20naruto.png",
-    "rul": "FIHGTER",
-    "pos": 33
-  },
-  {
-    "hero": "Vale",
-    "name": "Gaara",
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/vale%20x%20garaa.png",
+    "hero": "Lou Yi",
+    "name": "Startborne Matron",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb=20250619142204",
     "rul": "MAGE",
-    "pos": 5
+    "pos": 20
+  },
+  {
+    "hero": "Wanwan",
+    "name": "Summer Splash",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
+    "rul": "MARKSMAN",
+    "pos": 12
+  },
+  {
+    "hero": "Jawhead",
+    "name": "Proto Guardian",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=2025043013225",
+    "rul": "FIHGTER",
+    "pos": 10
+  },
+  {
+    "hero": "Kadita",
+    "name": "Maiden of Tide",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
+    "rul": "MAGE",
+    "pos": 6
   },
   {
     "hero": "Miya",
