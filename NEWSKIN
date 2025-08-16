@@ -42,10 +42,10 @@
     "pos": 5
   },
   {
-    "hero": "Novaria",
-    "name": "Dragonsworn",
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/novaria%20collector.png",
-    "rul": "MAGE",
-    "pos": 24
+    "hero": "Clint",
+    "name": "Sun n Sand",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/IMG_20250816_235530_538.jpg",
+    "rul": "MARKSMAN",
+    "pos": 8
   }
 ]
