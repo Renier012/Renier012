@@ -1,45 +1,45 @@
 [
   {
-    "hero": "Natan",
-    "name": "Archon of Knowledge",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1077-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071908",
+    "hero": "Ixia",
+    "name": "Invoker's Command",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/IMG_20250816_232614_442.jpg",
     "rul": "MARKSMAN",
-    "pos": 18
-  },
-  {
-    "hero": "Lou Yi",
-    "name": "Startborne Matron",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero968-portrait.png/revision/latest/scale-to-width-down/150?cb=20250619142204",
-    "rul": "MAGE",
     "pos": 20
   },
   {
-    "hero": "Wanwan",
-    "name": "Summer Splash",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
+    "hero": "Roger",
+    "name": "Invoker's Restrain",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/IMG_20250816_232611_048.jpg",
     "rul": "MARKSMAN",
-    "pos": 12
+    "pos": 13
   },
   {
-    "hero": "Jawhead",
-    "name": "Proto Guardian",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero105410-portrait.png/revision/latest/scale-to-width-down/150?cb=2025043013225",
-    "rul": "FIHGTER",
-    "pos": 10
+    "hero": "X Borg",
+    "name": "Invoker's Frame",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/IMG_20250816_232621_319.jpg",
+    "rul": "FIGHTER",
+    "pos": 27
   },
   {
-    "hero": "Kadita",
-    "name": "Maiden of Tide",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero757-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072015",
-    "rul": "MAGE",
-    "pos": 6
+    "hero": "Fanny",
+    "name": "Lifeguard",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/IMG_20250816_232634_282.jpg",
+    "rul": "ASSASIN",
+    "pos": 1
   },
   {
-    "hero": "Miya",
-    "name": "Nightowl Huntress",
-    "img": "https://github.com/lanz132/BANNER/raw/refs/heads/main/miya%20star.png",
+    "hero": "Claude",
+    "name": "Lifeguard",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/IMG_20250816_232638_972.jpg",
     "rul": "MARKSMAN",
-    "pos": 6
+    "pos": 4
+  },
+  {
+    "hero": "Zilong",
+    "name": "Summer Waves",
+    "img": "https://github.com/Renier012/Img/raw/refs/heads/main/IMG_20250816_232642_892.jpg",
+    "rul": "FIGHTER",
+    "pos": 5
   },
   {
     "hero": "Novaria",
